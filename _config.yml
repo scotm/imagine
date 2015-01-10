@@ -1,12 +1,12 @@
 # Site settings
 title: Imagine - A Socialist Vision for the 21st Century
 description: > # this means to ignore newlines until "baseurl:"
-  Imagine - A Socialist Vision for the 21st Century is a book by
+  This is a book by
   Alan McCombes and Tommy Sheridan, former high-profile figures
   in the Scottish Socialist Party. It graphically describes the 
   inequalities of capitalism and shows the need for a socialist 
   alternative, while remaining "free from jargon and dogma".
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/imagine/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings

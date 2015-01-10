@@ -2,7 +2,7 @@
 layout: post
 title:  "Acknowledgements"
 date:   2015-01-10 14:45:03
-categories: foreword
+categories: acknowledgements
 ---
 Many people – too many to list – have contributed in some measure to the development of this book.
 
