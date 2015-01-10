@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chapter Eight - Grey Suits and Green Resistance"
-date:   2015-01-10 16:03:03
+date:   2015-01-10 16:03:31
 categories: book
 ---
 BEFORE HIS DEATH a few years ago, the maverick financial tycoon, James Goldsmith, was one of the wealthiest men on the planet. He lived a lifestyle which few people could even begin to imagine.
