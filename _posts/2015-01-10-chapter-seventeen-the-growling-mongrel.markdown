@@ -49,7 +49,7 @@ Later, Robert Burns wrote:
 > But English gold has been our bane  
 > Sic’ a parcel of rogues in a nation.’2
 
-[a]This was no federal union of two sovereign states. The English ruling class was not interested in forming an equal partnership or union with Scotland. Although allowed to retain its own church, its own legal system and its own education system, Scotland was stripped of all political and economic autonomy.
+This was no federal union of two sovereign states. The English ruling class was not interested in forming an equal partnership or union with Scotland. Although allowed to retain its own church, its own legal system and its own education system, Scotland was stripped of all political and economic autonomy.
 
 Outside parliament, Scotland was in uproar. English troops were moved to the border ready to mount an invasion as riots swept Edinburgh and Glasgow in protest at the decision to dissolve the Scottish Parliament. One English government agent in Edinburgh estimated the mood in Scotland at around 50 to 1 against the Union.3
 

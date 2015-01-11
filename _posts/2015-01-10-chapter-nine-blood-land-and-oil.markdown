@@ -82,7 +82,7 @@ The attitude of successive British governments was lampooned a quarter of a cent
 > Pipe that oil in from the sea,  
 > Pipe those profits – home to me.’
 
-[a]He then tells the audience: ‘Your wonderful Labourite government was real nice: thank God they weren’t socialists.’
+He then tells the audience: ‘Your wonderful Labourite government was real nice: thank God they weren’t socialists.’
 
 The ‘Labourite’ governments of the 1960s and 1970s certainly were not socialists. But today’s ‘Labourite government’ is truly beyond satire. While Harold Wilson occasionally issued threats – albeit empty threats – of nationalisation to the oil companies, Tony Blair is flown out by BP to inaugurate the opening of the new Andrew Field, on which trade unions are to be refused recognition. He then goes on to appoint the BP chief executive, Lord Simon, to the post of Minister of Trade in the New Labour government.
 
@@ -113,7 +113,7 @@ The Cheviot, the Stag, and the Black, Black Oil ended with a Gaelic song written
 > Everyone in the land will have a place,  
 > And the exploiter will be driven out.’
 
-[a]The exploiter still has not been driven out. Back in the days when he was a socialist, Gordon Brown condemned the SNP for their acceptance of the private ownership of land, oil, and other industries, and for their rejection of class politics: ‘The SNP’s “new politics”, which rejects “class warfare”, presumes the familiar priorities of wealth and power over people … Their rejection of public ownership of land, oil, and the basic industries … assumes the subservience of Scottish workers to private international controls.’9
+The exploiter still has not been driven out. Back in the days when he was a socialist, Gordon Brown condemned the SNP for their acceptance of the private ownership of land, oil, and other industries, and for their rejection of class politics: ‘The SNP’s “new politics”, which rejects “class warfare”, presumes the familiar priorities of wealth and power over people … Their rejection of public ownership of land, oil, and the basic industries … assumes the subservience of Scottish workers to private international controls.’9
 
 Now, as Chancellor of the Exchequer, the same Gordon Brown resists pressure for a paltry penny-in-the-pound increase in corporation tax for the oil companies, even though, as the Petroleum Economist magazine notes approvingly, ‘The UK’s tax system for oil and gas ventures is the most attractive of any established producing country worldwide.’10
 

@@ -42,7 +42,7 @@ For me, as for most people in Scotland, the Poll Tax itself was a disgrace, a ba
 
 > ‘They’ll stamp and threaten, curse and swear, Apprehend you, poind your gear.’
 
-[a]  I had been served with a court order banning me from the vicinity of the police headquarters in Turnbull Street in the East End of Glasgow, where the sale was scheduled to take place on October 1, 1991. But there are times when you have to make hard choices. My hatred of warrant sales far outweighed my fear of the legal consequences.
+I had been served with a court order banning me from the vicinity of the police headquarters in Turnbull Street in the East End of Glasgow, where the sale was scheduled to take place on October 1, 1991. But there are times when you have to make hard choices. My hatred of warrant sales far outweighed my fear of the legal consequences.
 
 Along with 300 other anti-Poll-Tax activists, I marched into the courtyard where the sale was due to take place one hour later. I then tore up the interdict in full view of the TV cameras and called upon the assembled crowd to resist the warrant sale. And resist they did. The demonstrators surged forward towards the van, which contained the personal bits and pieces of a Greenock family. The massed ranks of blue uniforms were overwhelmed. The warrant sale was called off and, as the news was broadcast on local radio news bulletins, it seemed that the whole of Glasgow was cheering us to the rafters. ‘VICTORY!’ screamed the front-page banner headline in the Glasgow Evening Times.
 

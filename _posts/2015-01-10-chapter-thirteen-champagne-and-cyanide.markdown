@@ -17,7 +17,7 @@ IN THE 1950s, after the Authors’ Union of East Germany, a front for the ruling
 > Dissolved the people and  
 > Elected another?’1
 
-[a]For socialists, democracy is not an optional extra, like a preference for sugar in tea. Socialism without free elections, without free trade unions, without free speech, is not socialism.
+For socialists, democracy is not an optional extra, like a preference for sugar in tea. Socialism without free elections, without free trade unions, without free speech, is not socialism.
 
 Back in the 19th century, Karl Marx, when he read the policies of a political party that claimed to stand on his ideas, commented: ‘If that’s Marxism, I’m no Marxist.’ In the 20th century, millions of people in the West decided that they were not socialists, even though they instinctively sympathised with the ideals of socialism, such as equality, democracy, co-operation, and solidarity. And the reason they rejected socialism was because they were told that the Soviet Union was a socialist state.
 
@@ -67,7 +67,7 @@ For tens of millions across Eastern Europe, the promised free-market Garden of E
 
 > ‘Russians, free to get richer, are poorer. The wealth of the nation has shrunk. The top 10 per cent is reckoned to possess 50 per cent of the nation’s wealth; the bottom 40 per cent less than 20. Somewhere between 30 and 40 million people live below the poverty line – defined as around $30 a month. The gross domestic product has shrunk every year except one – 1997 – when it grew, at best by one per cent. Unemployment, officially non-existent in Soviet times, is now 12 per cent and may officially be 25 per cent. Men die, on average, in their late 50s. Diseases like tuberculosis and diphtheria have reappeared; servicemen suffer malnutrition; the population shrinks rapidly.’
 
-[a]Welcome to capitalism.
+Welcome to capitalism.
 
 Moscow today is a cross between modern Calcutta, with its teeming poverty, and 1920s Chicago, with its rampant gangsterism. Economists estimate that two thirds of all businesses, 400 banks and several dozen stock exchanges are run by the country’s 150 Mafia gangs. Up to 40 per cent of the country’s Gross Domestic Product is in the hands of organised crime syndicates.
 

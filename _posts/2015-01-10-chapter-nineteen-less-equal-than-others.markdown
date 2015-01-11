@@ -81,7 +81,7 @@ Sae pious and sae holy,
 Wi’ nowt to do but mark and tell
 Your neebours’ faults and folly!’
 
-[a]Today, the role of society’s moral Gestapo has largely been taken over by the tabloid press. Private lives are paraded across the front pages, the modern equivalent of the ‘Creepie Chair’. One-parent families, people who are gay or lesbian, and others who don’t conform to tradition and convention are treated as the enemies within, a subversive mob undermining the foundations of society.
+Today, the role of society’s moral Gestapo has largely been taken over by the tabloid press. Private lives are paraded across the front pages, the modern equivalent of the ‘Creepie Chair’. One-parent families, people who are gay or lesbian, and others who don’t conform to tradition and convention are treated as the enemies within, a subversive mob undermining the foundations of society.
 
 But blaming one-parent families for undermining traditional values is like blaming reservoirs for the rain. It is to confuse cause and effect. Over the past 30 years, the number of one-parent families in Britain has multiplied six-fold; however, this is a symptom of the failure of the traditional structures of society, rather than the cause of that failure.
 

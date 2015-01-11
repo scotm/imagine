@@ -7,6 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   alternative, while remaining "free from jargon and dogma".
 baseurl: "/imagine" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-
+permalink: "/:categories/:title.html"
 # Build settings
 markdown: kramdown

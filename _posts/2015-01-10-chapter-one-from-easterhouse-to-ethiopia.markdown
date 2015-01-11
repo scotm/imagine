@@ -2,7 +2,7 @@
 layout: post
 title:  "Chapter One - From Easterhouse to Ethiopia"
 date:   2015-01-10 15:03:03
-categories: foreword
+categories: book
 ---
 IT’S THE FINAL Christmas of the 20th century, and across the world, people are preparing to celebrate the dawn of a new millennium.
 
@@ -87,7 +87,7 @@ Day in, day out, we are bombarded with images of glamour, wealth, and success. B
 > But he can’t be a man ’cos he doesn’t  
 > smoke the same cigarettes as me.’
 
-[a]Yet, back then, advertising was a gentle amateur affair compared with the manic multi-billion-pound marketing industry of the 21st century. Huge psychological pressures bear down, especially on those at the bottom of society, to wear the right clothes, drink the right beer, drive the right car, sport the right trainers, wear the right perfume or aftershave, buy the right toys for their children.
+Yet, back then, advertising was a gentle amateur affair compared with the manic multi-billion-pound marketing industry of the 21st century. Huge psychological pressures bear down, especially on those at the bottom of society, to wear the right clothes, drink the right beer, drive the right car, sport the right trainers, wear the right perfume or aftershave, buy the right toys for their children.
 
 But as everyone knows, outward appearances can be deceptive. Many of the same people who sport designer labels live in dilapidated housing, exist on poor diets, suffer ill health – and are up to their ears in debt.
 
