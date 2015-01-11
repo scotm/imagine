@@ -5,7 +5,7 @@ date:   2015-01-10 17:01:03
 categories: references
 ---
 
-# Chapter 1
+## Chapter 1
 
 1. <a name='chapter-1-1' />Daily Record; December 31, 1999.
 2. <a name='chapter-1-1' />Scotland Against Drugs press release, December 29, 1999.
@@ -24,7 +24,7 @@ categories: references
 15. <a name='chapter-1-15' /> For a full discussion see Joseph Rowntree Foundation report, December 9, 1999. See also, Susan Flockhart, ‘Dear Sick Place’, Sunday Herald, February 7, 1999 and Ian Bell, ‘What Has Labour – Old or New – Done for Glasgow?’, The Scotsman, December 17, 1999.
 16. <a name='chapter-1-16' /> Quoted in Brian Lewis, ‘Poverty City’, Scottish Socialist Voice, issue 1, vol. 2, October 23, 1998.
 
-# Chapter 2
+## Chapter 2
 
 1. <a name='chapter-2-1' /> Sunday Times’ Rich List 2000, Sunday Times, March 19, 2000.
 2. <a name='chapter-2-2' /> D. Peters et al; Health Expenditure, Services and Outcomes in Africa 1990-96: World Bank; 1999.
@@ -36,7 +36,7 @@ categories: references
 8. <a name='chapter-2-8' /> Ibid.
 9. <a name='chapter-2-9' /> Survey conducted for Prospect magazine by Centre for Economics and Business Research Ltd; October, 1995.
 
-# Chapter 3
+## Chapter 3
 
 1. <a name='chapter-3-1' /> P. Murray, ‘National Health Scandal’, Scottish Socialist Voice, issue 22, vol. 2, January 21, 2000.
 2. <a name='chapter-3-2' /> Chicago Tribune, September 6, 1999.
@@ -47,7 +47,7 @@ categories: references
 7. <a name='chapter-3-7' /> See Alan McCombes, ‘Scotland Needs Socialism’, Scottish Socialist Voice, issue 1, November 22, 1996.
 8. <a name='chapter-3-8' /> See ‘The Price of Success: Beyond the Great Worklife Debate’, a report compiled by Ceridian Performance Partners and Management Today, 1999.
 
-# Chapter 4
+## Chapter 4
 
 1. <a name='chapter-4-1' /> See J. Reid, ‘John Buchan and the Legacy of Racism’, The Herald, January 4, 1996. (Reprinted in J. Reid, Power Without Principles: New Labour’s Sickness and Other Essays, Edinburgh: B&W, 1999).
 2. <a name='chapter-4-2' /> T. Gallagher, Glasgow The Uneasy Peace: Religious Tension in Modern Scotland, Manchester: Manchester University Press, 1987.
@@ -57,7 +57,7 @@ categories: references
 6. <a name='chapter-4-6' /> Information supplied by Campaign Against Domestic Violence.
 7. <a name='chapter-4-7' /> Information supplied by Gingerbread and One Plus.
 
-# Chapter 5
+## Chapter 5
 
 1. <a name='chapter-5-1' /> See ‘Benefits Butcher’, Scottish Socialist Voice, issue 6, vol. 2, February 12, 1999.
 2. <a name='chapter-5-2' /> T. O’Boyle, At Any Cost: Jack Welch, General Electric and the Pursuit of Profit, New York: Knopf, 1998.
@@ -72,7 +72,7 @@ categories: references
 11. <a name='chapter-5-11' /> I. McWhirter, ‘Labour Rushes In Where Thatcher Feared to Tread’, Sunday Herald, November 14, 1999.
 12. <a name='chapter-5-12' /> Gray, False Dawn
 
-# Chapter 6
+## Chapter 6
 
 1. <a name='chapter-6-1' /> M. Friedman, New York Times, September 13, 1970. Quoted in J. McMurtry, The Cancer Stage of Capitalism, London: Pluto, 1999.
 2. <a name='chapter-6-2' /> Ibid.
@@ -89,7 +89,7 @@ categories: references
 13. <a name='chapter-6-13' /> Sir Donald MacKay, ‘Nothing Must Stand in the Way of Free Trade’s Global March’, Scotland on Sunday, December 26, 1999.
 14. <a name='chapter-6-14' /> M.J. Mandel, ‘The Risk that Boom Will Turn to Bust’, American Business Week, February 14, 2000.
 
-# Chapter 7
+## Chapter 7
 
 1. <a name='chapter-7-1' /> See website, Who Owns What: The Database of Media Ownership (General Electric Corporation Overview) at www.mediaownership.org/ge
 2. <a name='chapter-7-2' /> Inland Revenue Statistics 1999.
@@ -97,7 +97,7 @@ categories: references
 4. <a name='chapter-7-4' /> See T. Benn, The Benn Diaries 1940-1990, London: Hutchison, 1995.
 5. <a name='chapter-7-5' /> P. Taaffe, T. Grant and L. Walsh, ‘The State: A Warning to the Labour Movement’, Militant Pamphlet, 1983.
 
-# Chapter 8
+## Chapter 8
 
 1. <a name='chapter-8-1' /> E.J. Hobsbawm, The Age of Revolution: Europe 1789-1848, London: Cardinal, 1973.
 2. <a name='chapter-8-2' /> See Douglas Rushkoff, ‘Breaking the Tech Myths (Before they Break Us)’, November 1998; and ‘The Shareware Universe’ (undated), www.rushkoff.com
@@ -108,7 +108,7 @@ categories: references
 7. <a name='chapter-8-7' /> I. Pearson, ‘Our View of the Future (The Future of Capitalism)’, British Telecommunications plc, 2000. This can be downloaded from the following web address: www.bt.com/innovation/viewpoints/pearson/capitalism.htm
 8. <a name='chapter-8-8' /> Ibid.
 
-# Chapter 9
+## Chapter 9
 
 1. <a name='chapter-9-1' /> J. McMurtry, The Cancer Stage of Capitalism, London: Pluto Press, 1999.
 2. <a name='chapter-9-2' /> Statistics provided by the Hadley Centre, linked to the UK Met Office.
@@ -120,7 +120,7 @@ categories: references
 8. <a name='chapter-9-8' /> McDonald and Myers, ‘Malign Design’, New Internationalist, November 1998.
 9. <a name='chapter-9-9' /> I. Bell, ‘Are Our Farmers Doomed?’, The Scotsman, September 15, 1999.
 
-# Chapter 10
+## Chapter 10
 
 1. <a name='chapter-10-1' /> A. Wightman, Who Owns Scotland, Edinburgh: Canongate, 1996.
 2. <a name='chapter-10-2' /> T. Johnston, Our Scots Noble Families, Glendaruel: Argyll Publishing, 1999 (New Edition).
@@ -133,7 +133,7 @@ categories: references
 9. <a name='chapter-10-9' /> G. Brown, ed., The Red Paper on Scotland, EUSPB, 1975.
 10. <a name='chapter-10-10' /> Petroleum Economist, August 1998.
 
-# Chapter 11
+## Chapter 11
 
 1. <a name='chapter-11-1' /> Glasgow Corporation Water Works archives, Glasgow University Library.
 2. <a name='chapter-11-2' /> J. McMurtry, The Cancer Stage of Capitalism, London: Pluto, 1999.
@@ -142,7 +142,7 @@ categories: references
 5. <a name='chapter-11-5' /> M. Sawyer and K. O’Donnell, A Future for Public Ownership, London: Lawrence & Wishart, 1999.
 6. <a name='chapter-11-6' /> Ibid.
 
-# Chapter 12
+## Chapter 12
 
 1. <a name='chapter-12-1' /> Speech to Labour Party Conference, 1996.
 2. <a name='chapter-12-2' /> From H. McDiarmid, ‘A Drunk Man Looks At The Thistle’, 1926.
@@ -151,7 +151,7 @@ categories: references
 5. <a name='chapter-12-5' /> J. Gray, False Dawn: Delusions of Global Capitalism, London: Granta, 1998.
 6. <a name='chapter-12-6' /> Observer, September 29, 1996.
 
-# Chapter 13
+## Chapter 13
 
 1. <a name='chapter-13-1' /> From Tony Blair’s keynote speech, March 28, 2000.
 2. <a name='chapter-13-2' /> John MacLean, (Scottish Workers Republican Party candidate, Gorbals constituency), Election Address, 1922.
@@ -160,7 +160,7 @@ categories: references
 5. <a name='chapter-13-5' /> George Kerevan, The Scotsman, August 16, 1999.
 6. <a name='chapter-13-6' /> George Kerevan, The Scotsman, June 24, 1999.
 
-# Chapter 14
+## Chapter 14
 
 1. <a name='chapter-14-1' /> B. Brecht, The Solution, 1953.
 2. <a name='chapter-14-2' /> Quoted in John MacLean, Nan Milton, London: Pluto Press, 1973.
@@ -168,7 +168,7 @@ categories: references
 4. <a name='chapter-14-4' /> See Forbes magazine articles on Russia, September 7, 1998; November 16, 1998; March 22, 1999.
 5. <a name='chapter-14-5' /> Revolution Betrayed by Leon Trotsky was first published in 1936. It is now out of print, though it is worthwhile trying to get a second-hand copy of this seminal analysis of totalitarianism in the Soviet Union.
 
-# Chapter 15
+## Chapter 15
 
 1. <a name='chapter-15-1' /> T. Bunyan, The Poltical Police in Britain, London: Quartet Books, 1983 (first published in 1975).
 2. <a name='chapter-15-2' /> See E. Truman, ‘Hacked Off’, Scottish Socialist Voice, issue 16, vol. 2, September 30, 1999.
@@ -177,14 +177,14 @@ categories: references
 5. <a name='chapter-15-5' /> Quoted in Milne, The Enemy Within.
 6. <a name='chapter-15-6' /> The Zapatista website is at www.ezln.org
 
-# Chapter 16
+## Chapter 16
 
 1. <a name='chapter-16-1' /> Quoted in T. Sheridan and A. McCombes, ‘Struggle, Solidarity and Socialism’, Scottish Militant Labour pamphlet, 1994.
 2. <a name='chapter-16-2' /> Inland Revenue Statistics 1999.
 3. <a name='chapter-16-3' /> The findings were published in The Scotsman in November 1998.
 4. <a name='chapter-16-4' /> A. Neil, ‘Walking With Ideological Dinosaurs’, The Scotsman, November 12, 1999.
 
-# Chapter 17
+## Chapter 17
 
 1. <a name='chapter-17-1' /> ‘British Social Attitudes Survey 1999’, conducted by National Council for Social Research.
 2. <a name='chapter-17-2' /> See G. Orwell, Homage to Catalonia, Harmondsworth: Penguin, 1989 (First published 1938); H. Thomas, The Spanish Civil War, Harmondsworth: Penguin, 1977; Sam Dolgoff, ed., The Anarchist Collectives: Workers’ Self-Management in the Spanish Revolution 1936-39, Free Life Editions, 1974.
@@ -192,7 +192,7 @@ categories: references
 4. <a name='chapter-17-4' /> J. Foster and C. Woolfson, Politics of the UCS Work-In: Class Alliances and the Right to Work, London: Lawrence & Wishart, 1986.
 5. <a name='chapter-17-5' /> C. Woolfson and J. Foster, Track Record: The Story of the Caterpillar Occupation, London: Verso, 1988.
 
-# Chapter 18
+## Chapter 18
 
 1. <a name='chapter-18-1' /> W. Ferguson, Scotland’s Relations with England: A Survey to 1707, Edinburgh: The Saltire Society, 1994.
 2. <a name='chapter-18-2' /> The poem ‘Sic’ a Parcel of Rogues in a Nation’ is by Robert Burns.
@@ -202,7 +202,7 @@ categories: references
 6. <a name='chapter-18-6' /> A. Marr, The Battle for Scotland, Harmondsworth: Penguin, 1992.
 7. <a name='chapter-18-7' /> J. Cannon, ‘From Karl Marx to the Fourth of July’, The Militant, reprinted in Notebook of an Agitator, New York: Pathfinder Press, 1973.
 
-# Chapter 19
+## Chapter 19
 
 1. <a name='chapter-19-1' /> These figures derive from calculations based on statistics from The World Factbook 1999, Central Intelligence Agency, United States, and from J. Peat and S. Boyle, An Illustrated Guide to the Scottish Economy, London: Duckworth, 1999.
 2. <a name='chapter-19-2' /> S. Flockhart, ‘Dear Sick Place’, Sunday Herald, February 7, 1999.
@@ -210,10 +210,10 @@ categories: references
 4. <a name='chapter-19-4' /> See Scottish Socialist Party conference document, ‘The Scottish Economy: Scotland’s Economic Gulf’. The figure was calculated by dividing the combined profits made by overseas companies in Scotland by the number of Scottish employees on their payroll.
 5. <a name='chapter-19-5' /> Peat and Boyle, ‘An Illustrated Guide to the Scottish Economy’; company annual reports 1998-99.
 
-# Chapter 20
+## Chapter 20
 1. <a name='chapter-20-1' /> See I. Deutscher, The Prophet Unarmed: Trotsky 1921-1929 (vol. 2 of a 3 vol. biography of Leon Trotsky), Chapter III, ‘Not By Politics Alone’, Oxford: Oxford University Press, 1959.
 
-# Chapter 21
+## Chapter 21
 1. <a name='chapter-21-1' /> L. Grassic Gibbon, A Scots Quair, vol. 2, Cloud Howe, Edinburgh: Lomond, 1986.
 2. <a name='chapter-21-2' /> F. Fukuyama, The End of History and the Last Man, Free Press, 1992.
 3. <a name='chapter-21-3' /> The ‘What Women Want: Values and Visions’ survey was conducted throughout 1995 by the Women’s Communication Centre.
