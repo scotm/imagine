@@ -1,5 +1,5 @@
 # imagine
-Transcription of Alan McCombes' book, Imagine: A Socialist Vision for the 21st Century
+Digital version of Alan McCombes' book, Imagine: A Socialist Vision for the 21st Century
 
 This has been built with Jekyll - the static blog generation project.
 
