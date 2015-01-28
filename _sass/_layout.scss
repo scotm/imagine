@@ -242,3 +242,7 @@
         text-indent: 20px;
     }
 }
+
+.clearfix{
+    @extend %clearfix;
+}
