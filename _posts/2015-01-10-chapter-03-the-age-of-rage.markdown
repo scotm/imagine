@@ -10,7 +10,7 @@ But then, all of a sudden, Tim’s world was turned upside down. The Freeman Hos
 
 His life began to fall apart. He hit the bottle and soon became an alcoholic. His marriage collapsed. He ran up huge debts and lost his home. His health deteriorated and he was diagnosed with mouth cancer. Towards the end of 1999, he was found dead after falling from a balcony. There was a suggestion that he had been fleeing from people from whom he had borrowed money.
 
-At the inquest into his death, Tim’s step-daughter blamed the NHS for his death. ‘We are certain of one thing,’ she said. ‘None of this would have happened if he had not lost his job.’1
+At the inquest into his death, Tim’s step-daughter blamed the NHS for his death. ‘We are certain of one thing,’ she said. ‘None of this would have happened if he had not lost his job.’[1](../references/notes.html#chapter-3-1)
 
 Most economists and politicians would confess that there is inequality at the two opposite extremes of wealth and poverty. But the rest of us are supposed to have become comfortably incorporated into the middle classes. Some sociologists talk of the ‘diamond-shaped society’ – with a small ultra-rich ‘overclass’ at the top, a small impoverished ‘underclass’ at the bottom, and a big wide swathe in the middle.
 
@@ -34,15 +34,15 @@ According to the 1999 survey of British Social Attitudes, 60 per cent of workers
 
 No-one can dispute the fact that material living standards, particularly for skilled and professional workers, have improved over the past decade or so. There are higher levels of home ownership and car ownership than ever before. A whole new range of consumer goods, such as videos, dishwashers, microwave ovens and personal computers, have become widely available in recent years.
 
-But these modest gains disguise the fact that the working class is being exploited more ruthlessly and systematically than ever before. American economist John Schmitt points out that the average American worker produces 12 per cent more in the course of an hour’s work than ten years ago.2 Yet, allowing for inflation, wages have increased by less than two per cent.
+But these modest gains disguise the fact that the working class is being exploited more ruthlessly and systematically than ever before. American economist John Schmitt points out that the average American worker produces 12 per cent more in the course of an hour’s work than ten years ago.[2](../references/notes.html#chapter-3-2) Yet, allowing for inflation, wages have increased by less than two per cent.
 
-Meanwhile, a report by the banking company Merrill Lynch admits that the minimum wage in the US has fallen by 20 per cent in real terms over the past 20 years.3 The general trend across all the developed countries has been more or less the same. In Spain, the economy doubled in size over 20 years; yet the numbers in employment fell by eight per cent. Right across the globe, people are working harder and longer for less pay and in worsening conditions.
+Meanwhile, a report by the banking company Merrill Lynch admits that the minimum wage in the US has fallen by 20 per cent in real terms over the past 20 years.[3](../references/notes.html#chapter-3-3) The general trend across all the developed countries has been more or less the same. In Spain, the economy doubled in size over 20 years; yet the numbers in employment fell by eight per cent. Right across the globe, people are working harder and longer for less pay and in worsening conditions.
 
 This is a startling turnaround. In the past, even when times were tough, people looked forward to the future with confidence. ‘Things Can Only Get Better’ was New Labour’s cynical theme tune during the 1997 general election. But for generation after generation throughout the 20th century, that really was the prevailing belief.
 
 There was a feeling among all classes in society – at least in developed countries such as Britain and the US – that tomorrow would be better than today, that next year would be better than this year, that the next generation would have a better life than this generation.
 
-That sense of optimism was well grounded. One American economist, Robert Lawrence, has calculated that, from 1870 until 1970, living standards doubled every 35 years. Each generation was approximately twice as well off as the preceding generation.4
+That sense of optimism was well grounded. One American economist, Robert Lawrence, has calculated that, from 1870 until 1970, living standards doubled every 35 years. Each generation was approximately twice as well off as the preceding generation.[4](../references/notes.html#chapter-3-4)
 
 In Britain, there was a similar sense of eternal progress, especially in the post-war years. The NHS was founded, making free health care available to everyone for the first time in history. The welfare state was established, providing a safety net to ensure that no-one would starve. Huge resources were ploughed into education. Slums were torn down and replaced with gleaming new housing schemes with baths and inside toilets. Unemployment seemed to have been banished forever, and the Great Depression of the 1930s became a distant folk memory. ‘You’ve never had it so good,’ said Tory Prime Minister, Harold Macmillan, with some justification.
 
@@ -52,7 +52,7 @@ And, notwithstanding the cheerful twitterings of most politicians, there is a gr
 
 A number of sociologists and economists warn of the mass elimination of tens of millions of jobs across the developed countries as a result of automation. Jeremy Rifkin, President of the Washington DC-based Foundation on Economic Trends, who has written extensively on the impact of new technology on the workforce, maintains that ‘the shift from mass to elite labour forces is what distinguishes work in the Information Age from work in the Industrial Age’.
 
-Predicting the disappearance of scores of occupations, including assembly-line work, clerical work, bank telling, telephone operating, and many others, Rifkin warns ‘With near workerless factories and virtual companies already looming on the horizon, every nation will have to grapple with the question of what to do with the millions of people whose labour is needed less, or not at all.’5
+Predicting the disappearance of scores of occupations, including assembly-line work, clerical work, bank telling, telephone operating, and many others, Rifkin warns ‘With near workerless factories and virtual companies already looming on the horizon, every nation will have to grapple with the question of what to do with the millions of people whose labour is needed less, or not at all.’[5](../references/notes.html#chapter-3-5)
 
 More brutally, Professor Ian Angell of the London School of Economics, who provides advice to some of the world’s biggest multinational corporations on future trends in society, sketches out a chilling vision of a new Frankenstein capitalism, where the advance of technology, instead of liberating the human race, causes the virtual collapse of civilisation. ‘The lights are going out for wide sectors of society and for whole categories of employment. We are entering a new Dark Age: an age of hopelessness, an Age of Rage.’
 
@@ -62,7 +62,7 @@ Not that Professor Angell loses too much sleep over the fate of those whom he de
 
 Alarmingly, Professor Angell insists, ‘The biggest challenge of the coming decades is how to find an acceptable means to scale back democracy.’ This is taboo territory for most politicians, so the man should at least be commended for his honesty. Indeed, it’s clear that the arrogant professor is simply blurting out publicly ideas which many global political and business leaders privately adhere to.
 
-Fortunately, Professor Angell’s analysis of the impact of technology on society is one-sided, leading him to paint an exaggeratedly apocalyptic picture. For example, he states that ‘The Marxist myth that labour creates wealth will be buried once and for all … it is that rare commodity, human intellect, which is the stuff of tomorrow’s world.’6
+Fortunately, Professor Angell’s analysis of the impact of technology on society is one-sided, leading him to paint an exaggeratedly apocalyptic picture. For example, he states that ‘The Marxist myth that labour creates wealth will be buried once and for all … it is that rare commodity, human intellect, which is the stuff of tomorrow’s world.’[6](../references/notes.html#chapter-3-6)
 
 It is a delusion to imagine that even in the new Information Age, businessmen, intellectuals, and machines can supplant the traditional working class as the backbone of the economy and society. It’s true that electronic communications and the development of high-speed data-processing techniques have boosted productivity and have increased all-round efficiency. This, along with the driving down of labour costs through deregulation and globalisation, has led to a profits bonanza for big business and a prolonged economic upswing in the USA and Europe.
 
@@ -90,7 +90,7 @@ The provision of online services at the cheapest rates is also likely to lead to
 
 There is no possibility that these jobs will be replaced by new hi-tech jobs in the computer and electronics industries. Scotland’s Silicon Glen, for example, today employs just 30,000 people, which is 10,000 fewer than it employed 20 years ago.
 
-Nine out of ten of these jobs consist of desperately low-paid soul-destroying assembly-line work. Back in 1996, a BBC documentary, Frontline Scotland, revealed that Scotland’s electronics workers had the lowest pay, the longest hours, and the worst conditions of any electronics workers in the developed world. Almost half had a take-home pay of under £160 for a 44-hour week. Conditions today in ‘Sweatshop Glen’ are no better.7
+Nine out of ten of these jobs consist of desperately low-paid soul-destroying assembly-line work. Back in 1996, a BBC documentary, Frontline Scotland, revealed that Scotland’s electronics workers had the lowest pay, the longest hours, and the worst conditions of any electronics workers in the developed world. Almost half had a take-home pay of under £160 for a 44-hour week. Conditions today in ‘Sweatshop Glen’ are no better.[7](../references/notes.html#chapter-3-7)
 
 Politicians and economists frequently speak in awe-stricken tones about the miraculous Silicon Valley in California. They conjure up images of a vast belt of affluence, where hundreds of thousands of workers drive home in expensive cars every evening from their gleaming hi-tech offices to their plush detached villas.
 
@@ -100,6 +100,6 @@ Meanwhile, software companies like Microsoft have emerged as the all-powerful gl
 
 How different the reality of 21st-century capitalism is from the expectations of earlier generations of political leaders. Back in 1964, the newly elected Labour Prime Minister, Harold Wilson, forecast that ‘the white heat of technology’ would slash the length of the working week. He forecast that by the year 2000 there would be a maximum 20-hour working week as a consequence of technological progress.
 
-Yet, 36 years on, the average blue-collar worker in Britain works four and a half hours a week longer than in 1964. White-collar workers also work longer hours and are under more stress and strain than ever before. As Psychology Professor Cary Cooper of the University of Manchester Institute for Science and Technology points out, ‘We have moved into a culture of short-term contracts, job insecurity, work overload and long hours.’8
+Yet, 36 years on, the average blue-collar worker in Britain works four and a half hours a week longer than in 1964. White-collar workers also work longer hours and are under more stress and strain than ever before. As Psychology Professor Cary Cooper of the University of Manchester Institute for Science and Technology points out, ‘We have moved into a culture of short-term contracts, job insecurity, work overload and long hours.’[8](../references/notes.html#chapter-3-8)
 
 In the intervening period since Harold Wilson made his bold prediction, technology has advanced into the realms of what would have seemed like science fiction back then. Yet the dream of a 20-hour working week appears about as far-fetched as Dr Who’s Tardis seemed to schoolchildren back in 1964.
