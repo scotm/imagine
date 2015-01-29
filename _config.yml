@@ -2,11 +2,12 @@
 title: Imagine
 description: > # this means to ignore newlines until "baseurl:"
   This is a book by Alan McCombes, a former high-profile figure
-  in the Scottish Socialist Party. It graphically describes the 
-  inequalities of capitalism and shows the need for a socialist 
-  alternative, while remaining "free from jargon and dogma".
+  in the Scottish Socialist Party. It was published in the year
+  2000, and it graphically describes the inequalities of 
+  capitalism and shows the need for a socialist alternative, 
+  while remaining "free from jargon and dogma".
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.socialist-imagine.org" # the base hostname & protocol for your site
 permalink: "/:categories/:title.html"
 # Build settings
 markdown: kramdown
